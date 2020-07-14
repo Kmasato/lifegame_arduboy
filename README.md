@@ -4,7 +4,8 @@
 This is the 30x30pixel's Conway's Game of Life program for Arduboy.
 
 ## How to play?
-KEYS
+You can play the life of game on the your favorite pattern you made.
+
 A button: Start the Game
 B button: Put the cell
 Direction Keys: Move cell
